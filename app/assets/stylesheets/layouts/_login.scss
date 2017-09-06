@@ -1,0 +1,119 @@
+#first {
+    width: 500px;
+    float: left;
+    height: 400px;
+    margin: 30px auto;
+}
+#second {
+    width: 300px;
+    float: right;
+    height: 400px;
+    margin: 30px 0;
+}
+
+.form-center {
+  background: #ffffff;
+  margin: 0 auto;
+  width: 340px;
+  height: 440px;
+  position: relative;
+  border-radius: 8px;
+}
+
+
+.btn-primary {
+  /* color: #fff; */
+  /*background-color: #79589f; */
+  
+  color: white;
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+}
+  
+.box-whitesmoke {
+  min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: whitesmoke;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+}
+
+
+
+
+.front-signup {
+  border: 1px solid #e1e8ed;
+}
+.front-signup {
+  background: #fff;
+  box-shadow: none;
+}
+.front-signup {
+  background: #fff;
+  background: linear-gradient(#fff,#ddd);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff, endColorstr=#dddddd, GradientType=0)";
+  border-bottom: 1px solid #ccd6dd;
+  border-left: 1px solid #e1e8ed;
+  border-right: 1px solid #e1e8ed;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.1);
+}
+.front-signup {
+  border-radius: 4px;
+  height: 550px;
+  float: right;
+  width: 1200px;
+}
+.front-signup .text-input {
+  width: 266px;
+}
+.front-signup .field {
+  display: block;
+  margin: 6px auto;
+  width: 276px;
+}
+
+
+.front-signin {
+  border: 1px solid #e1e8ed;
+}
+.front-signin {
+  background: #fff;
+  background: linear-gradient(#fff,#ddd);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff, endColorstr=#dddddd, GradientType=0)";
+  border-bottom: 1px solid #ccd6dd;
+  border-left: 1px solid #e1e8ed;
+  border-right: 1px solid #e1e8ed;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.1);
+}
+.front-signin {
+  border-radius: 4px;
+  height: 300px;
+  float: right;
+  width: 410px;
+}
+.front-signin .text-input {
+  width: 366px;
+}
+.front-signin .field {
+  display: block;
+  margin: 10px 10px;
+  width: 376px;
+}
+
+.front-welcome-text h1 {
+  color: #DDDDD;
+  font-size: 38px;
+  line-height: 44px;
+  margin-bottom: 30px;
+  text-shadow: none;
+}
+.front-welcome-text p {
+  color: #DDDDD;
+  font-size: 21px;
+  line-height: 31px;
+  text-shadow: none;
+}
+
